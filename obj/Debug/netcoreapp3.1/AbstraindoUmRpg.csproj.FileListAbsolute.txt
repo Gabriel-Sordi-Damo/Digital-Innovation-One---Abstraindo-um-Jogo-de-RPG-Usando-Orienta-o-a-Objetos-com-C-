@@ -1,0 +1,13 @@
+C:\Users\Gabi\Desktop\ProjetosDio\AbstraindoUmRpg\bin\Debug\netcoreapp3.1\AbstraindoUmRpg.exe
+C:\Users\Gabi\Desktop\ProjetosDio\AbstraindoUmRpg\bin\Debug\netcoreapp3.1\AbstraindoUmRpg.deps.json
+C:\Users\Gabi\Desktop\ProjetosDio\AbstraindoUmRpg\bin\Debug\netcoreapp3.1\AbstraindoUmRpg.runtimeconfig.json
+C:\Users\Gabi\Desktop\ProjetosDio\AbstraindoUmRpg\bin\Debug\netcoreapp3.1\AbstraindoUmRpg.runtimeconfig.dev.json
+C:\Users\Gabi\Desktop\ProjetosDio\AbstraindoUmRpg\bin\Debug\netcoreapp3.1\AbstraindoUmRpg.dll
+C:\Users\Gabi\Desktop\ProjetosDio\AbstraindoUmRpg\bin\Debug\netcoreapp3.1\AbstraindoUmRpg.pdb
+C:\Users\Gabi\Desktop\ProjetosDio\AbstraindoUmRpg\obj\Debug\netcoreapp3.1\AbstraindoUmRpg.csprojAssemblyReference.cache
+C:\Users\Gabi\Desktop\ProjetosDio\AbstraindoUmRpg\obj\Debug\netcoreapp3.1\AbstraindoUmRpg.AssemblyInfoInputs.cache
+C:\Users\Gabi\Desktop\ProjetosDio\AbstraindoUmRpg\obj\Debug\netcoreapp3.1\AbstraindoUmRpg.AssemblyInfo.cs
+C:\Users\Gabi\Desktop\ProjetosDio\AbstraindoUmRpg\obj\Debug\netcoreapp3.1\AbstraindoUmRpg.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\ProjetosDio\AbstraindoUmRpg\obj\Debug\netcoreapp3.1\AbstraindoUmRpg.dll
+C:\Users\Gabi\Desktop\ProjetosDio\AbstraindoUmRpg\obj\Debug\netcoreapp3.1\AbstraindoUmRpg.pdb
+C:\Users\Gabi\Desktop\ProjetosDio\AbstraindoUmRpg\obj\Debug\netcoreapp3.1\AbstraindoUmRpg.genruntimeconfig.cache
